@@ -10,8 +10,13 @@ In file 'TRAB2---SSC0958---Criptomoedas-e-Blockchain/src/contracts/MyToken.sol'
 
 # Members and NUSP
 Alexandre Lopes Ferreira Dias dos Santos - 11801199
+
 Ana Julia Aguiar Tagliassachi - 11800632
+
 David Felipe Santos e Souza Dias - 11800611
+
 Gabriel Vinícius dos Santos - 11819424
+
 João Augusto Fernandes Barbosa - 11953348
+
 Luigi Quaglio - 11800563
